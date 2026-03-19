@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Takumi Matsunaga",
+    "email": "takumi0509astro@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://takumimatsunaga.github.io",
+    "summary": "PhD student studying binary star formation using numerical simulations.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Sapporo",
+      "countryCode": "JP",
       "region": ""
     },
     "profiles": [
@@ -25,75 +25,65 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "takumi0509astro",
+        "url": "https://github.com/takumi0509astro"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Hokkaido University",
+      "area": "Ph.D. in Astrophysics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2026",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Ibaraki University",
+      "area": "M.S. in Astrophysics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2024",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Ibaraki University",
+      "area": "B.S. in Physics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2020",
+      "endDate": "2024",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Chiba Prefectural Funabashi High School",
+      "area": "Science Course",
+      "studyType": "",
+      "startDate": "2017",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     }
   ],
   "skills": [],
   "languages": [],
-  "interests": [],
+"interests": [
+  {
+    "name": "Binary star formation"
+  },
+  {
+    "name": "Star formation"
+  },
+  {
+    "name": "Computational astrophysics"
+  }
+],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
+  "publications": [],
   "presentations": [
     {
       "name": "Talk 1 on Relevant Topic in Your Field",
