@@ -1,11 +1,12 @@
 ---
-title: "物理学演習Ⅲ"
+title: "物理学演習Ⅲ（2024-25）"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/physics-exercise-3
 venue: "茨城大学"
-date: 2024-04-01
+date: 2025-04-01
 location: "Ibaraki, Japan"
+excerpt: ""
 ---
 
 ## 概要

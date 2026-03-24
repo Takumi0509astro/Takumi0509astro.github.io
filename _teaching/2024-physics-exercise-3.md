@@ -1,4 +1,4 @@
-----
+---
 title: "物理学実験"
 collection: teaching
 type: "Teaching Assistant"
@@ -6,6 +6,7 @@ permalink: /teaching/physics-lab
 venue: "茨城大学"
 date: 2024-04-01
 location: "Ibaraki, Japan"
+excerpt: ""
 ---
 
 ## 概要
