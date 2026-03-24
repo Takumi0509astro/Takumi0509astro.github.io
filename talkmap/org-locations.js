@@ -1,22 +1,17 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "\u30dd\u30ea\u30c8\u30ed\u30fc\u30d7\u30ac\u30b9\u96f2\u306b\u304a\u3051\u308b\u9023\u661f\u306e\u7a2e\u306e\u6210\u9577\u904e\u7a0b<br />\u7b2c55\u56de \u5929\u6587\u30fb\u5929\u4f53\u7269\u7406\u82e5\u624b\u590f\u306e\u5b66\u6821; \u6238\u5009\u4e0a\u5c71\u7530\u6e29\u6cc9 \u30db\u30c6\u30eb\u5713\u5c71\u8358",
+    36.4802265,
+    138.1440455
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "\u30dd\u30ea\u30c8\u30ed\u30fc\u30d7\u30ac\u30b9\u96f2\u306b\u304a\u3051\u308b\u9023\u661f\u306e\u7a2e\u306e\u6210\u9577\u904e\u7a0b<br />\u521d\u4ee3\u661f\u30fb\u521d\u4ee3\u9280\u6cb3\u7814\u7a76\u4f1a2025; AOSSA\u798f\u4e95",
+    36.0607182,
+    136.2235134
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "\u30dd\u30ea\u30c8\u30ed\u30fc\u30d7\u30ac\u30b9\u96f2\u306b\u304a\u3051\u308b\u9023\u661f\u306e\u7a2e\u306e\u6210\u9577\u904e\u7a0b<br />\u65e5\u672c\u5929\u6587\u5b66\u4f1a2025\u5e74\u6625\u5b63\u5e74\u4f1a; \u6c34\u6238\u5e02\u6c11\u4f1a\u9928",
+    36.3791681,
+    140.4648486
   ]
 ];
