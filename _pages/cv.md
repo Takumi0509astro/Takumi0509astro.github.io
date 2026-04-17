@@ -12,13 +12,13 @@ redirect_from:
 ## Education
 - **Ph.D. in Cosmosciences**, Graduate School of Science, Hokkaido University, Japan  
   April 2026 – Present (Expected completion: March 2029)
-
+---
 - **M.Sc. in Astrophysics**, Graduate School of Science and Engineering, Ibaraki University, Japan  
   April 2024 – March 2026
-
+---
 - **B.Sc. in Physics**, College of Science, Ibaraki University, Japan  
   April 2020 – March 2024
-
+---
 - **Science Course**, Chiba Prefectural Funabashi High School, Japan  
   April 2017 – March 2020
 
