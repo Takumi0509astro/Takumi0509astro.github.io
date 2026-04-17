@@ -29,7 +29,7 @@ April 2017 – March 2020
 
 
 ## Fellowships and Awards
-Hokkaido University EXEX Doctoral Fellowship
+Hokkaido University EXEX Doctoral Fellowship  
 April 2026 – March 2029
 
 
