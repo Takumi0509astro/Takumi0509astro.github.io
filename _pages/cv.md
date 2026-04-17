@@ -9,56 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+- **Ph.D. in Cosmosciences**, Graduate School of Science, Hokkaido University, Japan  
+  April 2026 – Present (Expected completion: March 2029)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **M.Sc. in Astrophysics**, Graduate School of Science and Engineering, Ibaraki University, Japan  
+  April 2024 – March 2026
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **B.Sc. in Physics**, College of Science, Ibaraki University, Japan  
+  April 2020 – March 2024
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Science Course**, Chiba Prefectural Funabashi High School, Japan  
+  April 2017 – March 2020
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+## Fellowships and Awards
+- Hokkaido University EXEX Doctoral Fellowship, April 2026 –
+
+
+## Research Interests
+- Binary star formation  
+- Star formation  
+- Angular momentum distribution in molecular clouds  
+- Computational astrophysics  
+
+
+## Skills
+- **Programming**: Python, C  
+- **Simulation**: Smoothed Particle Hydrodynamics (SPH), Gadget  
+- **Tools**: Linux, Git, LaTeX  
+
+
+## Publications
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+
+## Talks and Presentations
+<ul>
+{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}
+</ul>
+
+
+## Teaching Experience
+<ul>
+{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
