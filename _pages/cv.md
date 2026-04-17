@@ -10,21 +10,27 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-- **Ph.D. in Cosmosciences**, Graduate School of Science, Hokkaido University, Japan  
-  April 2026 – Present (Expected completion: March 2029)
----
-- **M.Sc. in Astrophysics**, Graduate School of Science and Engineering, Ibaraki University, Japan  
-  April 2024 – March 2026
----
-- **B.Sc. in Physics**, College of Science, Ibaraki University, Japan  
-  April 2020 – March 2024
----
-- **Science Course**, Chiba Prefectural Funabashi High School, Japan  
-  April 2017 – March 2020
+
+**Doctor of Science (Cosmosciences)**  
+Graduate School of Science, Hokkaido University, Japan  
+April 2026 – Present  
+(Expected completion: March 2029)
+
+**Master of Science (Astrophysics)**  
+Graduate School of Science and Engineering, Ibaraki University, Japan  
+April 2024 – March 2026
+
+**Bachelor of Science (Physics)**  
+College of Science, Ibaraki University, Japan  
+April 2020 – March 2024
+
+Chiba Prefectural Funabashi High School (Science Course), Japan  
+April 2017 – March 2020
 
 
 ## Fellowships and Awards
-- Hokkaido University EXEX Doctoral Fellowship, April 2026 –
+Hokkaido University EXEX Doctoral Fellowship
+April 2026 – March 2029
 
 
 ## Research Interests
