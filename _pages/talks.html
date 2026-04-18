@@ -1,50 +1,44 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
-<p style="text-decoration:underline;">
-  <a href="/talkmap.html">See a map of all the places I've given a talk!</a>
-</p>
-{% endif %}
+## International Conference
 
-## Oral Presentations (Domestic)
+### Oral Presentations
 
 {% for post in site.talks reversed %}
-  {% if post.type == "Oral" and post.category == "Domestic" %}
+  {% if post.category == "International" and post.type == "Oral" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+### Poster Presentations
+
+{% for post in site.talks reversed %}
+  {% if post.category == "International" and post.type == "Poster" %}
     {% include archive-single-talk.html %}
   {% endif %}
 {% endfor %}
 
 ---
 
-## Oral Presentations (International)
+## Domestic Conference
+
+### Oral Presentations
 
 {% for post in site.talks reversed %}
-  {% if post.type == "Oral" and post.category == "International" %}
+  {% if post.category == "Domestic" and post.type == "Oral" %}
     {% include archive-single-talk.html %}
   {% endif %}
 {% endfor %}
 
----
-
-## Poster Presentations (Domestic)
+### Poster Presentations
 
 {% for post in site.talks reversed %}
-  {% if post.type == "Poster" and post.category == "Domestic" %}
-    {% include archive-single-talk.html %}
-  {% endif %}
-{% endfor %}
-
----
-
-## Poster Presentations (International)
-
-{% for post in site.talks reversed %}
-  {% if post.type == "Poster" and post.category == "International" %}
+  {% if post.category == "Domestic" and post.type == "Poster" %}
     {% include archive-single-talk.html %}
   {% endif %}
 {% endfor %}
