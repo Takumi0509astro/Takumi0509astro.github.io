@@ -18,6 +18,13 @@
               <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
+            <li class="masthead__menu-item persist">
+              {% if page.lang == "ja" %}
+                <a href="{{ base_path }}{{ page.url | remove: '/ja' }}">EN</a> / <strong>JP</strong>
+              {% else %}
+                <strong>EN</strong> / <a href="{{ base_path }}/ja{{ page.url }}">JP</a>
+              {% endif %}
+            </li>
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
           </li>
