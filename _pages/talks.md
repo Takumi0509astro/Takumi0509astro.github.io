@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Talks and Presentations"
+title: "Talks and Posters"
 permalink: /talks/
 author_profile: true
 ---
 
 ## International Conference
 
-### Oral Presentations
+### Oral
 
 {% for post in site.talks reversed %}
   {% if post.category == "International" and post.type == "Oral" %}
@@ -15,7 +15,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-### Poster Presentations
+### Poster
 
 {% for post in site.talks reversed %}
   {% if post.category == "International" and post.type == "Poster" %}
@@ -27,7 +27,7 @@ author_profile: true
 
 ## Domestic Conference
 
-### Oral Presentations
+### Oral
 
 {% for post in site.talks reversed %}
   {% if post.category == "Domestic" and post.type == "Oral" %}
@@ -35,7 +35,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-### Poster Presentations
+### Poster
 
 {% for post in site.talks reversed %}
   {% if post.category == "Domestic" and post.type == "Poster" %}
