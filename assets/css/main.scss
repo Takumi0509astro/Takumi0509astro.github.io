@@ -67,33 +67,33 @@
 // }
 
 // /* ---------- 見出し ---------- */
-// h1, h2, h3 {
-//   font-family: 'Georgia', 'Times New Roman', serif;
-//   color: var(--text-main);
-// }
+h1, h2, h3 {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  color: var(--text-main);
+}
 
-// h2 {
-//   border-bottom: 2px solid var(--cobalt);
-//   padding-bottom: 4px;
-//   margin-top: 1.5em;
-// }
+h2 {
+  border-bottom: 2px solid var(--cobalt);
+  padding-bottom: 4px;
+  margin-top: 1.5em;
+}
 
 // /* ---------- リンク ---------- */
-// a {
-//   color: var(--cobalt);
-//   text-decoration: none;
-// }
+a {
+  color: var(--cobalt);
+  text-decoration: none;
+}
 
-// a:hover {
-//   color: var(--cobalt-light);
-//   text-decoration: underline;
-// }
+a:hover {
+  color: var(--cobalt-light);
+  text-decoration: underline;
+}
 
 // /* ---------- メタ情報（日付など） ---------- */
-// .page__meta {
-//   color: var(--text-sub);
-//   font-size: 0.9em;
-// }
+.page__meta {
+  color: var(--text-sub);
+  font-size: 0.9em;
+}
 
 // /* ---------- ナビバー ---------- */
 // .masthead {
@@ -114,15 +114,15 @@
 // }
 
 // /* ---------- タイトル ---------- */
-// .archive__item-title a {
-//   color: var(--text-main);
-// }
+.archive__item-title a {
+  color: var(--text-main);
+}
 
-// .archive__item-title a:hover {
-//   color: var(--cobalt);
-// }
+.archive__item-title a:hover {
+  color: var(--cobalt);
+}
 
 // /* ---------- 言語切替 ---------- */
-// .masthead__menu-item strong {
-//   color: var(--cobalt);
-// }
+.masthead__menu-item strong {
+  color: var(--cobalt);
+}
