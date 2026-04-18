@@ -42,87 +42,87 @@
     "vendor/font-awesome/brands"
 ;
 
-/* =========================
-   Theme Customization
-   ========================= */
+// /* =========================
+//    Theme Customization
+//    ========================= */
 
-/* ---------- カラー変数 ---------- */
-:root {
-  --cobalt: #0047AB;
-  --cobalt-light: #2f6fe4;
+// /* ---------- カラー変数 ---------- */
+// :root {
+//   --cobalt: #0047AB;
+//   --cobalt-light: #2f6fe4;
 
-  --text-main: #222222;
-  --text-sub: #555555;
+//   --text-main: #222222;
+//   --text-sub: #555555;
 
-  --bg-main: #ffffff;
-  --border-light: #e5e5e5;
-}
+//   --bg-main: #ffffff;
+//   --border-light: #e5e5e5;
+// }
 
-/* ---------- 全体 ---------- */
-body {
-  background-color: var(--bg-main);
-  color: var(--text-main);
-  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
-  line-height: 1.7;
-}
+// /* ---------- 全体 ---------- */
+// body {
+//   background-color: var(--bg-main);
+//   color: var(--text-main);
+//   font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+//   line-height: 1.7;
+// }
 
-/* ---------- 見出し ---------- */
-h1, h2, h3 {
-  font-family: 'Georgia', 'Times New Roman', serif;
-  color: var(--text-main);
-}
+// /* ---------- 見出し ---------- */
+// h1, h2, h3 {
+//   font-family: 'Georgia', 'Times New Roman', serif;
+//   color: var(--text-main);
+// }
 
-h2 {
-  border-bottom: 2px solid var(--cobalt);
-  padding-bottom: 4px;
-  margin-top: 1.5em;
-}
+// h2 {
+//   border-bottom: 2px solid var(--cobalt);
+//   padding-bottom: 4px;
+//   margin-top: 1.5em;
+// }
 
-/* ---------- リンク ---------- */
-a {
-  color: var(--cobalt);
-  text-decoration: none;
-}
+// /* ---------- リンク ---------- */
+// a {
+//   color: var(--cobalt);
+//   text-decoration: none;
+// }
 
-a:hover {
-  color: var(--cobalt-light);
-  text-decoration: underline;
-}
+// a:hover {
+//   color: var(--cobalt-light);
+//   text-decoration: underline;
+// }
 
-/* ---------- メタ情報（日付など） ---------- */
-.page__meta {
-  color: var(--text-sub);
-  font-size: 0.9em;
-}
+// /* ---------- メタ情報（日付など） ---------- */
+// .page__meta {
+//   color: var(--text-sub);
+//   font-size: 0.9em;
+// }
 
-/* ---------- ナビバー ---------- */
-.masthead {
-  border-bottom: 3px solid var(--cobalt);
-  background-color: #ffffff;
-}
+// /* ---------- ナビバー ---------- */
+// .masthead {
+//   border-bottom: 3px solid var(--cobalt);
+//   background-color: #ffffff;
+// }
 
-/* ---------- サイドバー ---------- */
-.sidebar {
-  border-left: 3px solid var(--cobalt);
-}
+// /* ---------- サイドバー ---------- */
+// .sidebar {
+//   border-left: 3px solid var(--cobalt);
+// }
 
-/* ---------- 記事ブロック ---------- */
-.archive__item {
-  border-bottom: 1px solid var(--border-light);
-  padding-bottom: 1em;
-  margin-bottom: 1.5em;
-}
+// /* ---------- 記事ブロック ---------- */
+// .archive__item {
+//   border-bottom: 1px solid var(--border-light);
+//   padding-bottom: 1em;
+//   margin-bottom: 1.5em;
+// }
 
-/* ---------- タイトル ---------- */
-.archive__item-title a {
-  color: var(--text-main);
-}
+// /* ---------- タイトル ---------- */
+// .archive__item-title a {
+//   color: var(--text-main);
+// }
 
-.archive__item-title a:hover {
-  color: var(--cobalt);
-}
+// .archive__item-title a:hover {
+//   color: var(--cobalt);
+// }
 
-/* ---------- 言語切替 ---------- */
-.masthead__menu-item strong {
-  color: var(--cobalt);
-}
+// /* ---------- 言語切替 ---------- */
+// .masthead__menu-item strong {
+//   color: var(--cobalt);
+// }
