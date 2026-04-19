@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /ja/
 title: "Takumi Matsunaga / 松永拓巳"
 lang: ja
