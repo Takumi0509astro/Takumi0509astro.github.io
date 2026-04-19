@@ -16,7 +16,7 @@
             {% assign nav_data = site.data.navigation.main_en %}
           {% endif %}
 
-          {% comment /> 2. 決定したデータを使ってループを回す {% endcomment %}
+          {% comment %} 2. 決定したデータを使ってループを回す {% endcomment %}
           {% for link in nav_data %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
