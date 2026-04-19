@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 [北海道大学理論宇宙物理学研究室](https://astro3.sci.hokudai.ac.jp/huat/index.php/home_jp/)で初代星連星形成の研究をしている大学院生(D1)です。  
 
 ##プロフィール  
