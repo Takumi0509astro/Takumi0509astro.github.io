@@ -2,6 +2,7 @@
 layout: archive
 title: "Talks and Posters"
 permalink: /talks/
+lang: en
 author_profile: true
 ---
 
