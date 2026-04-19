@@ -67,7 +67,6 @@ body {
 // /* ---------- 見出し ---------- */
 h1, h2, h3 {
   font-family: 'Georgia', 'Times New Roman', serif;
-  color: var(--text-main);
 }
 
 h2 {
@@ -106,10 +105,6 @@ h2 {
 }
 
 // /* ---------- タイトル ---------- */
-.archive__item-title a {
-  color: var(--text-main);
-}
-
 .archive__item-title a:hover {
   color: var(--cobalt);
 }
