@@ -20,8 +20,8 @@ redirect_from:
 〒060-0810  
 札幌市北区北10条西8丁目 北海道大学 理学部2号館 9階 理論宇宙物理学研究室  
 ### 研究テーマ  
--初代星  
--連星形成  
--角運動量輸送  
+- 初代星  
+- 連星形成  
+- 角運動量輸送  
 ### Contact  
 matsunaga[at]astro1.sci.hokudai.ac.jp (replace [at] with @)
