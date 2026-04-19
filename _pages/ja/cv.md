@@ -4,6 +4,8 @@ title: "経歴"
 permalink: /ja/cv/
 lang: ja
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 {% include base_path %}
@@ -23,7 +25,7 @@ author_profile: true
 茨城大学 理学部 理学科  
 2020年4月 – 2024年3月
 
-**理数科**  
+**高等学校**  
 千葉県立船橋高等学校  
 2017年4月 – 2020年3月
 
