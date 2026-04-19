@@ -21,11 +21,8 @@ main:
     url: /talks/
 
   - title: "Teaching"
-    url: /teaching/ 
+    url: /teaching/
 
   - title: "CV"
     url: /cv/
-
-  - title: "日本語"
-    url: /jp/
 
