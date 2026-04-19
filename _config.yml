@@ -170,7 +170,7 @@ include:
   - .htaccess
   - _pages
   - files
-  - ja
+  # - ja
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -240,9 +240,9 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-  pages:
-    output: true
-    permalink: /:path/
+  # pages:
+  #   output: true
+  #   permalink: /:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -300,24 +300,8 @@ defaults:
       author_profile: true
       share: true
 
-  - scope:
-      path: "ja"
-    values:
-      layout: archive
-      author_profile: true
-
-
-  # # _pages (全体)
   # - scope:
-  #     path: "_pages"
-  #     type: pages
-  #   values:
-  #     layout: archive
-  #     author_profile: true
-  # # _pages/ja (日本語専用・任意だが推奨)
-  # - scope:
-  #     path: "_pages/ja"
-  #     type: pages
+  #     path: "ja"
   #   values:
   #     layout: archive
   #     author_profile: true
