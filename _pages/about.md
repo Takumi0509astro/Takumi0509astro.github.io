@@ -1,7 +1,7 @@
 ---
 permalink: /
 lang: en
-title: "Home"
+title: "Takumi Matsunaga / 松永拓巳"
 author_profile: true
 redirect_from:
   - /about/
