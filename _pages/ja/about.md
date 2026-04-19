@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-## 松永拓巳  
 [北海道大学理論宇宙物理学研究室](https://astro3.sci.hokudai.ac.jp/huat/index.php/home_jp/)で初代星連星形成の研究をしている大学院生(D1)です。  
 
-###プロフィール  
+##プロフィール  
 **所属**  
 北海道大学理論宇宙物理学研究室博士後期課程1年  
 **住所**  
