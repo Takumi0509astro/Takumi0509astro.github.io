@@ -95,23 +95,17 @@ a:hover {
   font-size: 0.9em;
 }
 
-// /* ---------- ナビバー ---------- */
-.masthead {
-  border-bottom: 3px solid var(--cobalt);
-  background-color: #ffffff;
-}
-
 // /* ---------- サイドバー ---------- */
 // .sidebar {
 //   border-left: 3px solid var(--cobalt);
 // }
 
 // /* ---------- 記事ブロック ---------- */
-// .archive__item {
-//   border-bottom: 1px solid var(--border-light);
-//   padding-bottom: 1em;
-//   margin-bottom: 1.5em;
-// }
+.archive__item {
+  border-bottom: 1px solid var(--border-light);
+  padding-bottom: 1em;
+  margin-bottom: 1.5em;
+}
 
 // /* ---------- タイトル ---------- */
 .archive__item-title a {
