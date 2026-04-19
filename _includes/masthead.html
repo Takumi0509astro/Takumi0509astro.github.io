@@ -20,9 +20,11 @@
           {% endfor %}
             <li class="masthead__menu-item persist">
               {% if page.lang == "ja" %}
-                <a href="{{ base_path }}{{ page.url | remove: '/ja' }}">EN</a> / <strong>JP</strong>
+                <a href="{{ base_path }}{{ page.url | remove: '/ja' }}">EN</a> /
+                <span class="active-lang">JP</span>
               {% else %}
-                <strong>EN</strong> / <a href="{{ base_path }}/ja{{ page.url }}">JP</a>
+                <span class="active-lang">EN</span> /
+                <a href="{{ base_path }}/ja{{ page.url }}">JP</a>
               {% endif %}
             </li>
           <li id="theme-toggle" class="masthead__menu-item persist tail">

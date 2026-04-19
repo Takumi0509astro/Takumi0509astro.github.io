@@ -109,7 +109,12 @@ h2 {
   color: var(--cobalt);
 }
 
-// /* ---------- 言語切替 ---------- */
-.masthead__menu-item strong {
-  color: var(--cobalt);
+// // /* ---------- 言語切替 ---------- */
+// .masthead__menu-item strong {
+//   color: var(--cobalt);
+// }
+
+.active-lang {
+  color: #0047AB;
+  font-weight: bold;
 }
