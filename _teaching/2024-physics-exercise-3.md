@@ -1,6 +1,7 @@
 ---
 title: "物理学実験"
 collection: teaching
+lang: ja
 type: "Teaching Assistant"
 permalink: /teaching/physics-lab
 venue: "茨城大学"
