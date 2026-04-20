@@ -44,15 +44,7 @@
 
     {% if post.venue %}
       <p class="archive__item-excerpt" itemprop="description">
-        <strong>
-          {% if post.type == "Oral" %}
-            Oral Presentation
-          {% elsif post.type == "Poster" %}
-            Poster Presentation
-          {% else %}
-            {{ post.type }}
-          {% endif %}
-        </strong><br>
+        {{ post.author }}<br>
         {{ post.venue }}<br>
         {{ post.location }}
       </p>
