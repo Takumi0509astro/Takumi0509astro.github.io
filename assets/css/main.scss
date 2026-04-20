@@ -85,6 +85,35 @@ html[lang="ja"] h1,
 html[lang="ja"] h2,
 html[lang="ja"] h3 {
   font-family: 'Noto Serif JP', serif;
+}/* ---------- 基本 ---------- */
+body {
+  line-height: 1.7;
+}
+
+/* ---------- 本文フォント ---------- */
+/* 英語 */
+html[lang="en"] body {
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+}
+
+/* 日本語 */
+html[lang="ja"] body {
+  font-family: 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif;
+}
+
+/* ---------- 見出し ---------- */
+/* 英語 */
+html[lang="en"] h1,
+html[lang="en"] h2,
+html[lang="en"] h3 {
+  font-family: 'Georgia', 'Times New Roman', serif;
+}
+
+/* 日本語 */
+html[lang="ja"] h1,
+html[lang="ja"] h2,
+html[lang="ja"] h3 {
+  font-family: 'Noto Serif JP', serif;
 }
 
 // h2 {
