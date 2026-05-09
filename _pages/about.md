@@ -9,16 +9,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student studying star formation and binary formation through numerical simulations.
+I am a first-year Ph.D. student studying the formation of close Population III binaries at the [Theoretical Astrophysics Group, Hokkaido University](https://astro3.sci.hokudai.ac.jp/huat/index.php/home_jp/).  
 
-My research investigates the growth of seed binaries formed by fragmentation in collapsing molecular clouds. In particular, I study how the angular momentum distribution of the parent cloud influences the mass ratio and orbital separation of binaries.
+##Profile  
+###Affiliation  
 
-To explore this problem, I perform three-dimensional hydrodynamical simulations using smoothed particle hydrodynamics (SPH) codes.
+Ph.D. Student (D1),  
+Theoretical Astrophysics Group,  
+Graduate School of Science, Hokkaido University  
 
-Research Interests
-======
+###Address   
 
-- Binary star formation
-- Accretion onto protostellar binaries
-- Angular momentum transport
-- Computational astrophysics
+Theoretical Astrophysics Group, 9th Floor,  
+Faculty of Science Building No. 2,  
+Hokkaido University,  
+Kita 10, Nishi 8, Kita-ku, Sapporo 060-0810, Japan  
+
+##Research Interests  
+Population III stars  
+Binary star formation  
+Angular momentum transport  
+Three-body interactions  
+###Contact  
+
+matsunaga[at]astro1.sci.hokudai.ac.jp  
+(Please replace “[at]” with “@”.)

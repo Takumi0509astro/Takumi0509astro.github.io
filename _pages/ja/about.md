@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-[北海道大学理論宇宙物理学研究室](https://astro3.sci.hokudai.ac.jp/huat/index.php/home_jp/)で初代星連星形成の研究をしている大学院生(D1)です。  
+[北海道大学理論宇宙物理学研究室](https://astro3.sci.hokudai.ac.jp/huat/index.php/home_jp/)で初代星近接連星形成の研究をしている大学院生(D1)です。  
 
 ## プロフィール  
 ### 所属  
@@ -23,5 +23,6 @@ redirect_from:
 - 初代星  
 - 連星形成  
 - 角運動量輸送  
+- 三体相互作用  
 ### Contact  
 matsunaga[at]astro1.sci.hokudai.ac.jp (replace [at] with @)

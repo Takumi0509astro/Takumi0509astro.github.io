@@ -38,16 +38,15 @@ redirect_from:
 
 ## 研究分野
 
+- 初代星  
 - 連星形成  
-- 星形成  
-- 分子雲における角運動量分布  
-- 計算宇宙物理学  
-
+- 角運動量輸送  
+- 三体相互作用  
 
 ## スキル
 
 - **プログラミング**：Python, C  
-- **数値計算**：Smoothed Particle Hydrodynamics (SPH), GADGETコード  
+- **数値計算**：Smoothed Particle Hydrodynamics (SPH), GADGET-2コード  
 - **ツール**：Linux, Git, LaTeX  
 
 
