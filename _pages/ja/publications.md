@@ -9,7 +9,7 @@ lang: ja
 {% include base_path %}
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">Google Scholarのプロファイルでも論文リストを確認できます： <a href="{{site.author.googlescholar}}">Google Scholar</a></div>
+  <div class="wordwrap">しばし待て</a></div>
 {% endif %}
 
 {% if site.publication_category %}
