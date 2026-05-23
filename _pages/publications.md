@@ -8,9 +8,11 @@ lang: en
 
 {% include base_path %}
 
-{% if site.author.googlescholar %}
+<!-- {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+{% endif %} -->
+
+Coming soon...
 
 {% if site.publication_category %}
   {% for category in site.publication_category %}
