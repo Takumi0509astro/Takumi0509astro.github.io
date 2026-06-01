@@ -66,8 +66,8 @@ body {
     'Noto Sans JP',
     sans-serif;
 
-  font-size: 16px;
-  line-height: 1.8;
+  font-size: 15px;
+  line-height: 1.65;
 }
 
 /* 見出し */
@@ -83,15 +83,15 @@ h1, h2, h3, h4, h5, h6 {
 
 /* サイズ調整 */
 h1 {
-  font-size: 2.4rem;
+  font-size: 2rem;
 }
 
 h2 {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
 }
 
 h3 {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
 }
 
 /* 本文 */
@@ -101,14 +101,14 @@ h3 {
 
 /* 段落間隔 */
 .page__content p {
-  margin-bottom: 1.2em;
+  margin-bottom: 0.6em;
 }
 
 // /* ---------- 記事ブロック ---------- */
 .archive__item {
   border-bottom: 1px solid var(--border-light);
-  padding-bottom: 1em;
-  margin-bottom: 1.5em;
+  padding-bottom: 0.5em;
+  margin-bottom: 0.8em;
 }
 
 // /* ---------- タイトル ---------- */
