@@ -29,11 +29,11 @@ repository: "Takumi0509astro/takumimatsunaga.github.io"
 author:
   # Biographic information
   avatar: "takumi_official.jpg"
-  name: "Takumi Matsunaga"
+  name: "Takumi Matsunaga / 松永 拓巳"
   pronouns         : # example: "she/her"  
-  bio: "PhD student studying binary star formation using numerical simulations."
-  location: "Japan"
-  employer: "Hokkaido University"
+  bio: "Ph.D. Student in Theoretical Astrophysics<br>Studying Population III Binary Formation"
+  location: "Sapporo, Japan"
+  employer: "Graduate School of Science, Hokkaido University /<br>北海道大学 大学院理学院"
   uri              : # URL
   email            : "takumi0509astro@gmail.com" 
 
