@@ -104,6 +104,14 @@ h3 {
   margin-bottom: 0.6em;
 }
 
+/* 補助線 */
+.page__content h2 {
+    border-bottom: 2px solid var(--global-base-color);
+    padding-bottom: 0.3rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
 // /* ---------- 記事ブロック ---------- */
 .archive__item {
   border-bottom: 1px solid var(--border-light);
