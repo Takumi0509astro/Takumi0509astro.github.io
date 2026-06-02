@@ -4,13 +4,13 @@ permalink: /
 lang: en
 title: "Takumi Matsunaga / 松永拓巳"
 author_profile: true
-header:
-  overlay_image: /images/jaxa.jpg
-  overlay_filter: 0.3
 redirect_from:
   - /about/
   - /about.html
 ---
+<p align="center">
+  <img src="/images/banner.jpg" width="100%">
+</p>
 
 I am a first-year Ph.D. student in the [Theoretical Astrophysics Group at Hokkaido University](https://astro3.sci.hokudai.ac.jp/huat/index.php/home_jp/).  
 My research focuses on the formation and evolution of binary stars through numerical simulations, with particular interest in the origin of close Population III binaries that may become gravitational-wave sources.
