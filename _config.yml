@@ -14,7 +14,7 @@
 
 
 locale                   : "ja-JP"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "aqua" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title: "Takumi Matsunaga / 松永 拓巳"
 title_separator          : "-"
 name: "Takumi Matsunaga"

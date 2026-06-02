@@ -1,0 +1,55 @@
+/* ==========================================================================
+    AQUA THEME - LIGHT VERSION
+    ========================================================================== */
+
+/* Color codes used for the theme */
+$primary-color              : #0ea5e9;  // Aqua Blue
+$dark-primary-color         : mix(#000, $primary-color, 40%);
+$darker-primary-color       : mix(#000, $primary-color, 60%);
+$light-primary-color        : mix(#fff, $primary-color, 25%);
+
+$background                 : #f8fafc;
+$background-light           : #ffffff;
+$background-lighter         : #ffffff;
+$text                       : #1e293b;
+$link                       : $primary-color;
+$link-dark                  : mix(#000, $primary-color, 30%);
+$link-light                 : mix(#fff, $primary-color, 20%);
+$footer                     : #e2e8f0;
+
+/* Color codes used for the site */
+$danger-color               : #ef4444;
+$info-color                 : #06b6d4;
+$notice-color               : #94a3b8;
+$success-color              : #22c55e;
+$warning-color              : #f59e0b;
+
+/* Other basic settings for the template */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Light theme for the site */
+html[data-theme="light"] {
+    --global-base-color                 : #{$primary-color};
+    --global-bg-color                   : #{$background};
+    --global-footer-bg-color            : #{$footer};
+    --global-border-color               : #{$light-primary-color};
+    --global-dark-border-color          : #{$background-light};
+    --global-code-background-color      : #fafafa;
+    --global-code-text-color            : #{$darker-primary-color};
+    --global-fig-caption-color          : #{$light-primary-color};
+    --global-link-color                 : #{$link};
+    --global-link-color-hover           : #{$link-dark};
+    --global-link-color-visited         : #{$link-light};
+    --global-masthead-link-color        : #{$text};
+    --global-masthead-link-color-hover  : #{$primary-color};
+    --global-text-color                 : #{$text};
+    --global-text-color-light           : #64748b;
+    --global-thead-color                : #e2e8f0;
+}
