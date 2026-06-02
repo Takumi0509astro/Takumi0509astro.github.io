@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src="/images/jaxa.jpg" width="100%">
+  <img src="/images/jaxa.jpg" width="60%">
 </p>
 
 I am a first-year Ph.D. student in the [Theoretical Astrophysics Group at Hokkaido University](https://astro3.sci.hokudai.ac.jp/huat/index.php/home_jp/).  
