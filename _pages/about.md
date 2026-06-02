@@ -9,56 +9,57 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in [Theoretical Astrophysics Group at Hokkaido University](https://astro3.sci.hokudai.ac.jp/huat/index.php/home_jp/). My research focuses on the formation and evolution of binary stars through numerical simulations. In particular, I study the origin of close Population III binaries that may eventually become gravitational-wave sources.
+ am a first-year Ph.D. student in the [Theoretical Astrophysics Group at Hokkaido University](https://astro3.sci.hokudai.ac.jp/huat/index.php/home_jp/). My research focuses on the formation and evolution of binary stars through numerical simulations, with particular interest in the origin of close Population III binaries that may become gravitational-wave sources.
 
 ## Research Overview
+
+One of the key questions in modern astrophysics is how the first stellar systems evolve into compact binaries that later produce gravitational waves.
+
 Population III stars, the first generation of stars in the Universe, are expected to form binary and multiple stellar systems. While previous studies have shown that gas accretion often causes binary orbits to expand, the physical processes leading to the formation of close binaries remain unclear.
 
-My research investigates how three-body interactions, angular momentum transport, and radiative feedback influence the orbital evolution of primordial stellar systems. By combining N-body dynamics and hydrodynamical simulations, I aim to clarify the conditions under which close Population III binaries can form and evolve into progenitors of gravitational-wave sources.
+My research investigates how three-body interactions, angular momentum transport, and radiative feedback influence the orbital evolution of primordial stellar systems. Through numerical simulations, I aim to clarify the conditions under which close Population III binaries can form and evolve into gravitational-wave progenitors.
+
+## Current Research Topics
+
+- Formation of close Population III binaries
+- Three-body interactions in gaseous disks
+- Angular momentum transport in primordial stellar systems
+- Gravitational-wave progenitors from the first stars
+I am a first-year Ph.D. student in the [Theoretical Astrophysics Group at Hokkaido University](https://astro3.sci.hokudai.ac.jp/huat/index.php/home_jp/). My research focuses on the formation and evolution of binary stars through numerical simulations, with particular interest in the origin of close Population III binaries that may become gravitational-wave sources.
+
+## Research Overview
+
+One of the key questions in modern astrophysics is how the first stellar systems evolve into compact binaries that later produce gravitational waves.
+
+Population III stars, the first generation of stars in the Universe, are expected to form binary and multiple stellar systems. While previous studies have shown that gas accretion often causes binary orbits to expand, the physical processes leading to the formation of close binaries remain unclear.
+
+My research investigates how three-body interactions, angular momentum transport, and radiative feedback influence the orbital evolution of primordial stellar systems. Through numerical simulations, I aim to clarify the conditions under which close Population III binaries can form and evolve into gravitational-wave progenitors.
+
+## Current Research Topics
+
+- Formation of close Population III binaries
+- Three-body interactions in gaseous disks
+- Angular momentum transport in primordial stellar systems
+- Gravitational-wave progenitors from the first stars
 
 ## News
-Apr. 2026 — Started Ph.D. program at Hokkaido University.
+
+<ul>
+  <li><strong>Apr. 2026</strong> — Started Ph.D. program at Hokkaido University.</li>
+  <li><strong>Apr. 2026</strong> — Began research on the formation of close Population III binaries as gravitational-wave progenitors.</li>
+</ul>
 
 ## Upcoming Events
-(To be updated...)
+
+<ul>
+  <li>
+    <strong>Aug. 3–7, 2026</strong> —
+    <em>The Formation of Stars and Planets in the Evolving Galaxy</em>
+    (Okinawa, Japan)
+  </li>
+</ul>
 
 ## Contact
+
 matsunaga[at]astro1.sci.hokudai.ac.jp  
-(Please replace “[at]” with “@”.)
-
-<!-- ---
-layout: archive
-permalink: /
-lang: en
-title: "Takumi Matsunaga / 松永拓巳"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
-
-I am a first-year Ph.D. student studying the formation of close Population III binaries at the [Theoretical Astrophysics Group, Hokkaido University](https://astro3.sci.hokudai.ac.jp/huat/index.php/home_jp/).  
-
-## Profile  
-### Affiliation  
-
-Ph.D. Student (D1),  
-Theoretical Astrophysics Group,  
-Graduate School of Science, Hokkaido University  
-
-### Address   
-
-Theoretical Astrophysics Group, 9th Floor,  
-Faculty of Science Building No. 2,  
-Hokkaido University,  
-Kita 10, Nishi 8, Kita-ku, Sapporo 060-0810, Japan  
-
-## Research Interests  
-Population III stars  
-Binary star formation  
-Angular momentum transport  
-Three-body interactions  
-
-### Contact  
-matsunaga[at]astro1.sci.hokudai.ac.jp  
-(Please replace “[at]” with “@”.) -->
+(Please replace "[at]" with "@".)
