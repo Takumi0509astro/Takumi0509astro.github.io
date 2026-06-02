@@ -4,6 +4,9 @@ permalink: /
 lang: en
 title: "Takumi Matsunaga / 松永拓巳"
 author_profile: true
+header:
+  overlay_image: /images/jaxa.jpg
+  overlay_filter: 0.3
 redirect_from:
   - /about/
   - /about.html
