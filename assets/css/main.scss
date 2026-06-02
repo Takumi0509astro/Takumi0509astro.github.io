@@ -91,7 +91,11 @@ h2 {
 }
 
 h3 {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
+}
+
+h4 {
+  font-size: 1.1rem;
 }
 
 /* 本文 */
@@ -105,11 +109,12 @@ h3 {
 }
 
 /* 補助線 */
-.page__content h2 {
-    border-bottom: 2px solid var(--global-base-color);
+h2 {
+    border-bottom: 1px solid var(--global-base-color);
+    border-left: 2px solid var(--global-base-color);
+
+    padding-left: 0.6rem;
     padding-bottom: 0.3rem;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
 }
 
 // /* ---------- 記事ブロック ---------- */

@@ -56,7 +56,7 @@ April 2026 – March 2029
 </ul>
 
 
-## Talks and Presentations
+## Presentations
 <ul>
 {% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html %}
