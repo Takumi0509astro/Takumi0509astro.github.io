@@ -3,7 +3,7 @@
     ========================================================================== */
 
 /* Color codes used for the theme */
-$primary-color              : #0ea5e9;  // Aqua Blue
+$primary-color              : #2563eb;  // Aqua Blue
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#fff, $primary-color, 25%);
@@ -35,7 +35,7 @@ $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
 /* Light theme for the site */
-html[data-theme="light"] {
+:root {
     --global-base-color                 : #{$primary-color};
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$footer};
