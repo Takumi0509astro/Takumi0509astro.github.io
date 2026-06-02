@@ -7,6 +7,7 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
+classes: home-title-center
 ---
 <p align="center">
   <img src="/images/jaxa.jpg" width="60%">
