@@ -31,19 +31,42 @@ My research investigates how three-body interactions, angular momentum transport
 
 ## News
 
-<ul>
-  <li><strong>Apr. 2026</strong> — Started Ph.D. program at Hokkaido University.</li>
-  <li><strong>Apr. 2026</strong> — Began research on the formation of close Population III binaries as gravitational-wave progenitors.</li>
+<ul class="news-list">
+{% for n in site.data.news %}
+  <li class="news-item">
+
+    <span class="news-date">
+      {{ n.date }}
+    </span>
+
+    —
+
+    {% if n.url %}
+      <a href="{{ n.url }}" target="_blank" rel="noopener" class="news-link">
+        {{ n.text }}
+      </a>
+    {% else %}
+      <span class="news-text">
+        {{ n.text }}
+      </span>
+    {% endif %}
+
+  </li>
+{% endfor %}
 </ul>
 
 ## Upcoming Events
 
 <ul>
+{% for e in site.data.events %}
   <li>
-    <strong>Aug. 3–7, 2026</strong> —
-    [The Formation of Stars and Planets in the Evolving Galaxy](https://ppvii.org/spg2026/)
-    (Okinawa, Japan)
+    <strong>{{ e.date }}</strong>
+    {% if e.date_end %}–{{ e.date_end }}{% endif %}
+    —
+    <a href="{{ e.url }}" target="_blank" rel="noopener">{{ e.title }}</a>
+    ({{ e.location }})
   </li>
+{% endfor %}
 </ul>
 
 ## Contact
