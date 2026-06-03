@@ -36,7 +36,7 @@ My research investigates how three-body interactions, angular momentum transport
   <li class="news-item">
 
     <span class="news-date">
-      {{ n.date }}
+      {{ n.date | date: "%b. %Y" }}
     </span>
 
     —
@@ -60,10 +60,18 @@ My research investigates how three-body interactions, angular momentum transport
 <ul>
 {% for e in site.data.events %}
   <li>
-    <strong>{{ e.date }}</strong>
-    {% if e.date_end %}–{{ e.date_end }}{% endif %}
+    <strong>
+      {{ e.date | date: "%b. %-d" }}
+      {% if e.date_end %}
+        –{{ e.date_end | date: "%-d, %Y" }}
+      {% else %}
+        , {{ e.date | date: "%Y" }}
+      {% endif %}
+    </strong>
     —
-    <a href="{{ e.url }}" target="_blank" rel="noopener">{{ e.title }}</a>
+    <a href="{{ e.url }}" target="_blank" rel="noopener">
+      {{ e.title }}
+    </a>
     ({{ e.location }})
   </li>
 {% endfor %}
