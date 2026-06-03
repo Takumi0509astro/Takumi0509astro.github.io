@@ -41,7 +41,7 @@ My research investigates how three-body interactions, angular momentum transport
 <ul>
   <li>
     <strong>Aug. 3–7, 2026</strong> —
-    <em>The Formation of Stars and Planets in the Evolving Galaxy</em>
+    [The Formation of Stars and Planets in the Evolving Galaxy](https://ppvii.org/spg2026/)
     (Okinawa, Japan)
   </li>
 </ul>
