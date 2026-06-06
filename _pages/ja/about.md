@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /
+permalink: ja/
 lang: ja
 title: "Takumi Matsunaga / 松永拓巳"
 author_profile: true
