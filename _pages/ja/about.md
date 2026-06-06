@@ -62,12 +62,10 @@ classes: home-title-center
 <ul>
 {% for e in site.data.events %}
   <li>
-    <strong>
-      {{ e.date | date: "%Y年%-m月%-d日" }}
-      {% if e.date_end %}
-        ～{{ e.date_end | date: "%-m月%-d日" }}
-      {% endif %}
-    </strong>
+    {{ e.date | date: "%Y/%m/%d" }}
+    {% if e.date_end %}
+      –{{ e.date_end | date: "%d" }}
+    {% endif %}
     —
     <a href="{{ e.url }}" target="_blank" rel="noopener">
       {{ e.title }}
