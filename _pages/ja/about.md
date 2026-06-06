@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-lang: jp
+lang: ja
 title: "Takumi Matsunaga / 松永拓巳"
 author_profile: true
 redirect_from:
