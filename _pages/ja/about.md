@@ -64,7 +64,7 @@ classes: home-title-center
   <li>
     {{ e.date | date: "%Y/%m/%d" }}
     {% if e.date_end %}
-      –{{ e.date_end | date: "%d" }}
+      – {{ e.date_end | date: "%d" }}
     {% endif %}
     —
     <a href="{{ e.url }}" target="_blank" rel="noopener">
